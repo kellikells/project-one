@@ -15,3 +15,5 @@ APIs for our backend:
 The four day forecast icons, minimum and high temperatures are generated from Weatherbit. 
 
 link to deployed project: https://kellikells.github.io/project-one/
+
+![overall project](
